@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CodeYouWeek3String/1.0.0": {
+        "runtime": {
+          "CodeYouWeek3String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeYouWeek3String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

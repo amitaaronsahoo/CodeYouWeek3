@@ -1,0 +1,15 @@
+C:\Users\Amit Sahoo\ProgrammingProjects\CodeYouProjects\SoftwareC#\CodeYouWeek3String\CodeYouWeek3\CodeYouWeek3String\bin\Debug\net10.0\CodeYouWeek3String.exe
+C:\Users\Amit Sahoo\ProgrammingProjects\CodeYouProjects\SoftwareC#\CodeYouWeek3String\CodeYouWeek3\CodeYouWeek3String\bin\Debug\net10.0\CodeYouWeek3String.deps.json
+C:\Users\Amit Sahoo\ProgrammingProjects\CodeYouProjects\SoftwareC#\CodeYouWeek3String\CodeYouWeek3\CodeYouWeek3String\bin\Debug\net10.0\CodeYouWeek3String.runtimeconfig.json
+C:\Users\Amit Sahoo\ProgrammingProjects\CodeYouProjects\SoftwareC#\CodeYouWeek3String\CodeYouWeek3\CodeYouWeek3String\bin\Debug\net10.0\CodeYouWeek3String.dll
+C:\Users\Amit Sahoo\ProgrammingProjects\CodeYouProjects\SoftwareC#\CodeYouWeek3String\CodeYouWeek3\CodeYouWeek3String\bin\Debug\net10.0\CodeYouWeek3String.pdb
+C:\Users\Amit Sahoo\ProgrammingProjects\CodeYouProjects\SoftwareC#\CodeYouWeek3String\CodeYouWeek3\CodeYouWeek3String\obj\Debug\net10.0\CodeYouWeek3String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Sahoo\ProgrammingProjects\CodeYouProjects\SoftwareC#\CodeYouWeek3String\CodeYouWeek3\CodeYouWeek3String\obj\Debug\net10.0\CodeYouWeek3String.AssemblyInfoInputs.cache
+C:\Users\Amit Sahoo\ProgrammingProjects\CodeYouProjects\SoftwareC#\CodeYouWeek3String\CodeYouWeek3\CodeYouWeek3String\obj\Debug\net10.0\CodeYouWeek3String.AssemblyInfo.cs
+C:\Users\Amit Sahoo\ProgrammingProjects\CodeYouProjects\SoftwareC#\CodeYouWeek3String\CodeYouWeek3\CodeYouWeek3String\obj\Debug\net10.0\CodeYouWeek3String.csproj.CoreCompileInputs.cache
+C:\Users\Amit Sahoo\ProgrammingProjects\CodeYouProjects\SoftwareC#\CodeYouWeek3String\CodeYouWeek3\CodeYouWeek3String\obj\Debug\net10.0\CodeYouWeek3String.sourcelink.json
+C:\Users\Amit Sahoo\ProgrammingProjects\CodeYouProjects\SoftwareC#\CodeYouWeek3String\CodeYouWeek3\CodeYouWeek3String\obj\Debug\net10.0\CodeYouWeek3String.dll
+C:\Users\Amit Sahoo\ProgrammingProjects\CodeYouProjects\SoftwareC#\CodeYouWeek3String\CodeYouWeek3\CodeYouWeek3String\obj\Debug\net10.0\refint\CodeYouWeek3String.dll
+C:\Users\Amit Sahoo\ProgrammingProjects\CodeYouProjects\SoftwareC#\CodeYouWeek3String\CodeYouWeek3\CodeYouWeek3String\obj\Debug\net10.0\CodeYouWeek3String.pdb
+C:\Users\Amit Sahoo\ProgrammingProjects\CodeYouProjects\SoftwareC#\CodeYouWeek3String\CodeYouWeek3\CodeYouWeek3String\obj\Debug\net10.0\CodeYouWeek3String.genruntimeconfig.cache
+C:\Users\Amit Sahoo\ProgrammingProjects\CodeYouProjects\SoftwareC#\CodeYouWeek3String\CodeYouWeek3\CodeYouWeek3String\obj\Debug\net10.0\ref\CodeYouWeek3String.dll
